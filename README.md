@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+<img  alt="coding" width="1000" height="400px" src="https://bashooka.com/wp-content/uploads/2018/04/scg-canvas-background-animation-22.jpg"  />
 
 <h1 align="center">Hi 👋, I'm Godstime Etineh</h1>
 <h3 align="center">A passionate full-stack developer from Nigeria.</h3>
