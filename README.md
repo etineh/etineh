@@ -6,13 +6,13 @@
 
 - 🌱 I’m currently learning **Solidity**
 
-- 📝 I regularly write articles on [medium.com/@etine4real](medium.com/@etine4real)
+- 📝  <b>I regularly write articles on </b> [medium.com/@etine4real](medium.com/@etine4real)
 
-- 💬 Ask me about <br> **JavaScript, React, Node.js, React-native Mongo etc...**
+- 💬 <b>Ask me about<b>: <br> **JavaScript, React, Node.js, React-native Mongo etc...**
 
 - 📫 How to reach me <br>  **I am open for collaboration, team work and jobs. You can reach me on etine4real@gmail.com**
 
-- ⚡ Fun fact <br> **Guest my full surname... "Etinemiderhi" could you pronounce it? lol. I prefer using "Etineh" for your sake, to save you stress of pronouncing a long name incorrectly, if need be.**
+-  <b>⚡ Fun fact  </b> <br> **Guest my full surname... "Etinemiderhi" could you pronounce it? lol. I prefer using "Etineh" for your sake, to save you stress of pronouncing a long name incorrectly, if need be.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
