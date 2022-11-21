@@ -1,14 +1,14 @@
 <img  alt="coding" width="1000" height="400px" src="https://bashooka.com/wp-content/uploads/2018/04/scg-canvas-background-animation-22.jpg"  />
 
 <h1 align="center">Hi 👋, I'm Godstime Etineh</h1>
-<h3 align="center">A passionate full-stack developer from Nigeria.</h3>
+<h3 align="center">A passionate full-stack developer with great experience.</h3>
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/premium-vector/programmer-engineering-development-coding-web-development-website-design-developer-vector_199064-126.jpg?w=2000"  />
 
 - 🌱 I’m currently learning **Solidity**
 
 - 📝  <b>I regularly write articles on </b> [medium.com/@etine4real](medium.com/@etine4real)
 
-- 💬 <b>Ask me about<b>: <br> **JavaScript, React, Node.js, React-native Mongo etc...**
+- 💬 <b>Ask me about<b>: <br> **JavaScript => React, Node.js, React-native, TypeScript, Nestjs, Mongodb(Mongoose) etc...**
 
 - 📫 How to reach me <br>  **I am open for collaboration, team work and jobs. You can reach me on etine4real@gmail.com**
 
