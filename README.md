@@ -8,7 +8,7 @@
 
 - 📝  <b>I regularly write articles on </b> [medium.com/@etine4real](medium.com/@etine4real)
 
-- 💬 <b>Ask me about<b>: <br> **JavaScript => React, Node.js, React-native, TypeScript, Nestjs, Mongodb(Mongoose) etc...**
+- 💬 <b>Ask me about<b>: <br> **JavaScript => React, Node.js, React-native, TypeScript, Nestjs, Mongodb(Mongoose), Python, Java ...**
 
 - 📫 How to reach me <br>  **I am open for collaboration, team work and jobs. You can reach me on etine4real@gmail.com**
 
