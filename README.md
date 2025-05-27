@@ -1,14 +1,14 @@
 <img  alt="coding" width="1000" height="400px" src="https://bashooka.com/wp-content/uploads/2018/04/scg-canvas-background-animation-22.jpg"  />
 
-<h1 align="center">Hi 👋, I'm Godstime Etineh</h1>
-<h3 align="center">A passionate full-stack developer with great experience.</h3>
+<h1 align="center">Hi 👋, I'm Godstime Delord</h1>
+<h3 align="center">A passionate full-stack mobile developer with great experience.</h3>
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/premium-vector/programmer-engineering-development-coding-web-development-website-design-developer-vector_199064-126.jpg?w=2000"  />
 
-- 🌱 I’m currently learning **Solidity**
+- 🌱 I’m currently learning **Flutter**
 
 - 📝  <b>I regularly write articles on </b> [medium.com/@etine4real](medium.com/@etine4real)
 
-- 💬 <b>Ask me about<b>: <br> **JavaScript => React, Node.js, React-native, TypeScript, Nestjs, Mongodb(Mongoose), Python, Java ...**
+- 💬 <b>Ask me about<b>: <br> **Kotlin, Java, Dart, Swift (basic), Android SDK, Jetpack Compose, KMP, Room, SQL, Spring Boot, RESTful APIs, Microservices, GitHub Actions, Bitrise, CircleCI, Firebase (Auth, Firestore, FCM, Realtime DB), Sentry, Bugsnag, Firebase Crashlytics, Mixpanel, Google Analytics, Retrofit, Hilt, Clean Architecture, Mobile Security, Agile, Docker (basic), AWS, GCP.**
 
 - 📫 How to reach me <br>  **I am open for collaboration, team work and jobs. You can reach me on etine4real@gmail.com**
 
@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mr_etineh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mr_etineh" height="30" width="40" /></a>
+<a href="https://twitter.com/GodstimeDelord" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mr_etineh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/godstime-etineh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="godstime-etineh" height="30" width="40" /></a>
 <a href="https://codesandbox.com/etineh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="etineh" height="30" width="40" /></a>
 <a href="https://medium.com/@etine4real" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@etine4real" height="30" width="40" /></a>
