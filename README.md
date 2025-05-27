@@ -12,7 +12,7 @@
 
 - 📫 How to reach me <br>  **I am open for collaboration, team work and jobs. You can reach me on etine4real@gmail.com**
 
--  <b>⚡ Fun fact  </b> <br> **Guest my full surname... "Etinemiderhi" could you pronounce it? lol. I prefer using "Etineh" for your sake, to save you stress of pronouncing a long name incorrectly, if need be.**
+-  <b>⚡ Fun fact  </b> <br> **I code for a living.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
