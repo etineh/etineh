@@ -4,7 +4,7 @@
 <h3 align="center">A passionate full-stack mobile developer with great experience.</h3>
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/premium-vector/programmer-engineering-development-coding-web-development-website-design-developer-vector_199064-126.jpg?w=2000"  />
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I focus mainly on **Mobile Apps**
 
 - 📝  <b>I regularly write articles on </b> [medium.com/@etine4real](medium.com/@etine4real)
 
