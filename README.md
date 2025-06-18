@@ -8,10 +8,10 @@
 
 - 💬 <b>Ask me about<b>: <br> **Kotlin, Java, Dart, Swift (basic), Android SDK, Jetpack Compose, KMP, Room, SQL, Spring Boot, Node.js, RESTful APIs, GitHub Actions, Firebase (Auth, Firestore, FCM, Realtime DB), MongoDB, Retrofit, Clean Architecture, Mobile Security, CI/CD, JUnit, Agile, Docker (basic), AWS.**
 
-- 📫 How to reach me <br>  **I am open for collaboration, team work and jobs. You can reach me on etine4real@gmail.com**
+- 📫 How to reach me <br> I am open for collaboration, team work and jobs. You can reach me on  **etine4real@gmail.com**
 
 -  <b>⚡ Fun Fact</b> <br>
-<strong>I started my coding journey as a web developer — from HTML, CSS, and JavaScript to React and Node.js(backend). One day, I was assigned a mobile development task. At first, I didn’t want to accept it, but I took up the challenge — and I delivered! That single experience made me fall in love with mobile app development even more. I kept growing in it, and today, I focus mainly on mobile development.</strong>
+<div>I started my coding journey as a web developer — from HTML, CSS, and JavaScript to React and Node.js(backend). One day, I was assigned a mobile development task. At first, I didn’t want to accept it, but I took up the challenge — and I delivered! That single experience made me fall in love with mobile app development even more. I kept growing in it, and today, I focus mainly on mobile development.</div>
 
 ---
 
